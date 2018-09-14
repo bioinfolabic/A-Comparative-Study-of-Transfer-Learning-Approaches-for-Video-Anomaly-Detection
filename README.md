@@ -15,5 +15,5 @@ numpy
 
 Download precomputed features at https://drive.google.com/drive/folders/176ilUizzSh-q2bxAr9A7VEXTlVDhDQr8?usp=sharing
 
-run classify.py with 'python classify.py datasetname'
+run with 'python classify.py datasetname'
 
