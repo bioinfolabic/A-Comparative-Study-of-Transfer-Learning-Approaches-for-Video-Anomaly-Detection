@@ -1,5 +1,5 @@
-# Transfer-Learning-Issues-in-Video-Anomaly-Detection
-Precomputed features and sample code for the paper entitled Transfer Learning Issues in Video Anomaly Detection, which is currently under review. 
+# A Comparative Study of Transfer Learning Approaches for Video Anomaly Detection
+Precomputed features and sample code for the paper entitled A Comparative Study of Transfer Learning Approaches for Video Anomaly Detection published in the International Journal of Pattern Recognition and Artificial Intelligence
 
 ## Dependencies:
 
